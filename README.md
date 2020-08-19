@@ -2,7 +2,7 @@
 
 I've tested an app to convert and optimize pictures and was responsible for an "Edit" module. This module has 7 functions: delete, rotate left, rotate right, flip horizontal, optimize, select as cover, order by random.
 
-Here are bugs reported by me that are related to the "Edit" module. I've attached screenshots from Jira because I was given access to Jira only for the duration of the training and the project and I am not able to give a link to Jira.
+Here are bugs reported by me that are related to the "Edit" module.
 
 ## Here is a list of defects sorted by priority:
 
